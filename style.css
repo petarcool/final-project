@@ -1,0 +1,37 @@
+
+body {
+    font-family: sans-serif;
+    background-color: #A8C9F0;
+}
+
+h1{
+    text-align: center;
+    font-size: 55px;
+    background-color:#B4A8F0 ;
+    margin: 50px;
+    border-radius: 10px;
+    color:white;
+}
+
+.link-header{
+    font-size: 27px;
+    background-color:#B4A8F0 ;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.link-nav{
+    margin: 20px;
+    font-size: 18px;
+}
+
+ul{
+    background-color: #A8E0F0;
+    margin-right: 650px;
+    border-radius: 10px;
+}
+
+.link-header:hover{
+    color:#B946B3;
+    
+}
